@@ -1,0 +1,6 @@
+
+age = float(input())
+
+
+
+
